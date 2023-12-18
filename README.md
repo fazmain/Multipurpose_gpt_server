@@ -1,0 +1,1 @@
+## Multipurpose API to test front-end applications using OpenAI API
